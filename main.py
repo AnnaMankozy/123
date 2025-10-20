@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
-privet
-hgfjgjfgjg
->>>>>>> Stashed changes
+print("privet")
+
+
